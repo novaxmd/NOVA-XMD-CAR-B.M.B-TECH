@@ -19,3 +19,17 @@
 </table>
 
 ---
+
+
+
+
+
+
+
+© 2025 **B.M.B XMD**. All rights reserved.  
+
+<a href="https://youtube.com/@bmb-xmd"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40px"/></a>
+<a href="https://instagram.com/bmbxmd"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40px"/></a>
+<a href="https://wa.me/255767862457"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40px"/></a>
+
+</div>
