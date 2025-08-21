@@ -7,7 +7,7 @@ MADE WITH 💡 BY **B.M.B XMD** - TANZANIA 🇹🇿
 <table>
   <tr>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/Pair%20Code-ff00d4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=00eaff" /></a>
+      <a href="https://dashboard.Pair.com/new"><img src="https://img.shields.io/badge/Pair%20Code-430098?style=for-the-badge&logowhatsapp&logoColor=white" /></a>
     </td>
     <td>
       <a href="#"><img src="https://img.shields.io/badge/QR%20Code-00eaff?style=for-the-badge&logo=qrcode&logoColor=white&labelColor=ff00d4" /></a>
