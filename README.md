@@ -15,18 +15,18 @@ MADE WITH 💡 BY **B.M.B XMD** - TANZANIA 🇹🇿
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      <a href="https://dashboard.heroku.com/new"><img src="https://img.shields.io/badge/Deploy%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
     </td>
     <td>
-      <a href="https://youtube.com/"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+      <a href="https://railway.app/new"><img src="https://img.shields.io/badge/Deploy%20Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" /></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/Contact-ff00d4?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=00eaff" /></a>
+      <a href="https://render.com/deploy"><img src="https://img.shields.io/badge/Deploy%20Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" /></a>
     </td>
     <td>
-      <a href="https://wa.me/"><img src="https://img.shields.io/badge/WhatsApp-25d366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+      <a href="https://www.koyeb.com/"><img src="https://img.shields.io/badge/Deploy%20Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white" /></a>
     </td>
   </tr>
 </table>
@@ -35,8 +35,9 @@ MADE WITH 💡 BY **B.M.B XMD** - TANZANIA 🇹🇿
 
 © 2025 **B.M.B XMD**. All rights reserved.  
 
-<a href="https://youtube.com/"><img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40px"/></a>
-<a href="https://github.com/"><img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="40px"/></a>
-<a href="https://wa.me/"><img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40px"/></a>
+<a href="https://dashboard.heroku.com/new"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40px"/></a>
+<a href="https://railway.app/new"><img src="https://railway.app/brand/logo-dark.svg" width="40px"/></a>
+<a href="https://render.com/deploy"><img src="https://render.com/images/favicon.png" width="40px"/></a>
+<a href="https://www.koyeb.com/"><img src="https://avatars.githubusercontent.com/u/67538748?s=200&v=4" width="40px"/></a>
 
 </div>
