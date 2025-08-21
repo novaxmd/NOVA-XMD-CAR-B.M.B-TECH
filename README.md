@@ -7,7 +7,7 @@ MADE WITH 💡 BY **B.M.B XMD** - TANZANIA 🇹🇿
 <table>
   <tr>
     <td>
-      <a href="#"><img src="https://img.shields.io/badge/Pair%20Code-ff00d4?style=for-the-badge&logo=code&logoColor=white&labelColor=00eaff" /></a>
+      <a href="#"><img src="https://img.shields.io/badge/Pair%20Code-ff00d4?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=00eaff" /></a>
     </td>
     <td>
       <a href="#"><img src="https://img.shields.io/badge/QR%20Code-00eaff?style=for-the-badge&logo=qrcode&logoColor=white&labelColor=ff00d4" /></a>
@@ -35,9 +35,11 @@ MADE WITH 💡 BY **B.M.B XMD** - TANZANIA 🇹🇿
 
 © 2025 **B.M.B XMD**. All rights reserved.  
 
-<a href="https://dashboard.heroku.com/new"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40px"/></a>
-<a href="https://railway.app/new"><img src="https://railway.app/brand/logo-dark.svg" width="40px"/></a>
-<a href="https://render.com/deploy"><img src="https://render.com/images/favicon.png" width="40px"/></a>
-<a href="https://www.koyeb.com/"><img src="https://avatars.githubusercontent.com/u/67538748?s=200&v=4" width="40px"/></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/906/906324.png" width="40px" title="Pair Code"/></a>
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1077/1077976.png" width="40px" title="QR Code"/></a>
+<a href="https://dashboard.heroku.com/new"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="40px" title="Heroku"/></a>
+<a href="https://railway.app/new"><img src="https://railway.app/brand/logo-dark.svg" width="40px" title="Railway"/></a>
+<a href="https://render.com/deploy"><img src="https://render.com/images/favicon.png" width="40px" title="Render"/></a>
+<a href="https://www.koyeb.com/"><img src="https://avatars.githubusercontent.com/u/67538748?s=200&v=4" width="40px" title="Koyeb"/></a>
 
 </div>
